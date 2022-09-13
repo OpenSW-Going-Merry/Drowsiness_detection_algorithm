@@ -26,16 +26,22 @@ def main():
 	try:
 		print("CO2 PPM is "+str(co2.get()))
 		ppm = int(co2.get())
+		# CO2 concentration measurement
 		if ppm <= 450 :
-			print("매우 좋음")
+			#outdoor air
+			print("VERY GOOD")
 		elif ppm > 450 and ppm <= 1000:
-			print("좋음")
+			#NORMAL
+			print("GOOD")
 		elif ppm > 1000 and ppm <= 2000:
-			print("보통")
+			#SLEEPY
+			print("BAD")
 		elif ppm > 2000 and ppm < 5000:
-			print("나쁨")
+			#HEADAKE
+			print("VERY BAD")
 		elif ppm > 5000:
-			print("매우 나쁨")
+			#DEAD
+			print("DANGEROUS")
 
 	except:
 		print("err")
