@@ -21,4 +21,24 @@
 |이창원|데이터셋 조사 및 생성|
 
 ## 2. 플로우 차트
-![플로우 차트](/https://github.com/OpenSW-Going-Merry/Drowsiness_detection_algorithm/blob/main/img/KakaoTalk_20220913_215504789.png)
+<img src="https://github.com/OpenSW-Going-Merry/Drowsiness_detection_algorithm/blob/main/img/KakaoTalk_20220913_215504789.png?raw=true" alt="dda"></img><br/>
+
+## 3. 디테일
++ 훈련 데이터 셋의 크기가 너무 작아 전이학습을 사용
+    * 전이학습: 사전 학습된 모델을 다른 작업에 이용하는 것
++ 얼굴 특징 분석을 위한 모델 생성을 위해 자세, 명암, 인종이 다양한 데이터셋을 사용
+    * 이로 인해 에러 발생
+    * 1. 다른 부위를 눈으로 예측
+    * 2. 복수의 사람이 있을 경우 완전히 다른 곳을 예측
++ 위의 문제를 해결하기 위해 데이터 증강 사용
+    * 1. RandomCrop: 원하는 크기만큼 원래 이미지에서 랜덤하게 추출
+    * 2. RandomBrightnessContrast: 밝기 및 대비 랜덤하게 변화
+    * 3.	Cutout: 랜덤하게 구멍냄
+    * 4.	HorizontalFlip: 수평으로 회전
+    
+    
+    
+    
+    
+    
+
