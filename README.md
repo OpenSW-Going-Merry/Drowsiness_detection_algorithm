@@ -40,8 +40,8 @@
 
 |  MH-Z14A Pin    |  Jestson Nano   |
 | --------------- |:---------------:|
-|  UART RXD 18    |      Pin 18     |
-|  UART TXD 19    |      Pin 19     |
+|  UART RXD 18    |      Pin 14     |
+|  UART TXD 19    |      Pin 15     |
 |     5V          |      Pin 2      |
 |     GND         |      Pin 4      |
 
