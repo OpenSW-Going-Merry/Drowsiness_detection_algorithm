@@ -22,6 +22,7 @@
 
 ## 2. 플로우 차트
 <img src="https://github.com/OpenSW-Going-Merry/Drowsiness_detection_algorithm/blob/main/img/KakaoTalk_20220913_215504789.png?raw=true" alt="dda"></img><br/>
+<img src="https://github.com/OpenSW-Going-Merry/Drowsiness_detection_algorithm/blob/main/img/flow.png?raw=true" alt="dda"></img><br/>
 
 ## 3. 디테일
 + 훈련 데이터 셋의 크기가 너무 작아 전이학습을 사용
