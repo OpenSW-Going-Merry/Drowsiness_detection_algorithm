@@ -21,4 +21,4 @@
 |이창원|데이터셋 조사 및 생성|
 
 ## 2. 플로우 차트
-![Alt text](/
+![플로우 차트](/https://github.com/OpenSW-Going-Merry/Drowsiness_detection_algorithm/blob/main/img/KakaoTalk_20220913_215504789.png)
