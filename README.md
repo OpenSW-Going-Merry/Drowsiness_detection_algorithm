@@ -40,7 +40,7 @@
     * 센서: MH-Z14A, WINSEN
     * Datasheet: https://www.winsen-sensor.com/d/files/mh-z14a-co2-manual-v1_4.pdf
     * 졸음을 일으키는 이산화탄소의 농도가 있으므로 해당 농도를 기준으로 사용
-<img src="https://github.com/OpenSW-Going-Merry/Drowsiness_detection_algorithm/blob/main/img/KakaoTalk_20220914_113451086.png" alt="dda"></img><br>
+<img src="https://github.com/OpenSW-Going-Merry/Drowsiness_detection_algorithm/blob/main/img/image.png" alt="dda"></img><br>
     
     
   
