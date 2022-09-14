@@ -34,7 +34,16 @@
     * 1. RandomCrop: 원하는 크기만큼 원래 이미지에서 랜덤하게 추출
     * 2. RandomBrightnessContrast: 밝기 및 대비 랜덤하게 변화
     * 3.	Cutout: 랜덤하게 구멍냄
-    * 4.	HorizontalFlip: 수평으로 회전
+    * 4.	HorizontalFlip: 수평으로 회전 <br>
+<img src="https://github.com/OpenSW-Going-Merry/Drowsiness_detection_algorithm/blob/main/img/KakaoTalk_20220914_113451086.png" alt="dda"></img><br>
++ 이산화탄소 측정
+    * 센서: MH-Z14A, WINSEN
+    * Datasheet: https://www.winsen-sensor.com/d/files/mh-z14a-co2-manual-v1_4.pdf
+    * 졸음을 일으키는 이산화탄소의 농도가 있으므로 해당 농도를 기준으로 사용
+<img src="https://github.com/OpenSW-Going-Merry/Drowsiness_detection_algorithm/blob/main/img/KakaoTalk_20220914_113451086.png" alt="dda"></img><br>
+    
+    
+  
     
     
     
