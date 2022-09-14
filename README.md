@@ -1,10 +1,21 @@
-# Drowsiness detection algorithm
-### Author: Seongchan Lee, Yonghee Kim, Youngmin Cha, Junhee Choi, Honggyun Yim, Changwon Lee
+# Drowsiness detection algorithm <br>
+개요: 졸음이란, 자연적인 생리 현상으로써 휴식을 필요로 할 때 나타나는 현상이다. <br> 
+그러나 때론 졸음을 이기고 하던 일이나 행동을 지속해야할 때가 있다. <br>
+따라서 카메라와 CO2센서를 이용해 사용자의 졸음을 감지하여 여러 상황에 맞춰 사용할 수 있다. <br>
+
 ---
 
 ## 졸음 감지 알고리즘
-1. 개요
-2. 멤버
-3. 플로우 차트
-4. 각 설명
+1. 멤버
+2. 플로우 차트
+3. 각 설명
 
+## 멤버
+|:---||:---:|
+|멤버||역할 및 기여|
+|이성찬(리더)||ㄴㅁㅇㄹㄴ|
+|김용희||ㄴㅁㅇㄹㄴ|
+|차영민||ㄴㅁㅇㄹㄴ|
+|최준희||ㄴㅁㅇㄹㄴ|
+|임홍균||ㄴㅁㅇㄹㄴ|
+|이창원||ㄴㅁㅇㄹㄴ|
